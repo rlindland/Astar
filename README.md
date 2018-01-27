@@ -1,2 +1,2 @@
 # Astar
-An implementation of an Astar search algorithm made for Battlecode 2018
+An implementation of an A* search algorithm made for Battlecode 2018
